@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/mainLayout"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.nitescorp.piim.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+   <ScrollView
+       android:layout_width="368dp"
+       android:layout_height="495dp"
+       tools:layout_editor_absoluteY="8dp"
+       tools:layout_editor_absoluteX="8dp">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="vertical"
+           android:paddingBottom="20dp"
+           tools:layout_editor_absoluteY="8dp"
+           tools:layout_editor_absoluteX="8dp">
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj1"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+
+
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj2"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj3"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj4"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj5"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj6"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj7"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj8"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj9"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj10"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj11"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj12"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj13"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj14"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj15"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj16"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj17"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:visibility="gone"
+               android:background="@drawable/rounded_corner_text_view"
+               android:id="@+id/pj18"
+               android:text="@string/pj1text"
+               android:textColor="@color/colorPrimaryDark"
+               android:textSize="40sp"
+               android:layout_marginLeft="10dp"
+               android:layout_marginTop="10dp"
+               android:onClick="openProjectDetails"
+               />
+
+
+
+       </LinearLayout>
+
+
+   </ScrollView>
+
+
+
+
+</android.support.constraint.ConstraintLayout>

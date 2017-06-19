@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nitesh/AndroidStudioProjects/PIIM/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/nitesh/AndroidStudioProjects/PIIM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a1d10222bfa353ad51967f2b721835b3721b4a54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nitesh/AndroidStudioProjects/PIIM/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9a851bad2f72fc02a66bba595a38fe62c544316a">
+        <dex dex="/home/nitesh/AndroidStudioProjects/PIIM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3ade772ce4001589d82ac078147f3a8ab7ee1006/classes.dex" />
+    </item>
+
+</items>
